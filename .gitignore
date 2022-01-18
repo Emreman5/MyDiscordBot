@@ -1,0 +1,4 @@
+.env
+.env.debug
+nodemon.json
+**/__pycache__/
